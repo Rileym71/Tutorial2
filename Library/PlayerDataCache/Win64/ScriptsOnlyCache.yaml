@@ -646,5 +646,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Tut 2.unity
-  playerPath: C:/Users/Admin/Desktop/DIG 3480/Tutorial 2/Challenge Builds/Tutorial
-    2.exe
+  playerPath: C:/Users/Admin/Desktop/DIG 3480/Tutorial 2/New folder/Tutorial 2.exe
